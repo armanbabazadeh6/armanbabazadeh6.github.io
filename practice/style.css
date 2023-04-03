@@ -14,3 +14,13 @@ h1{
     color: white;
     font-family: sans-serif;
 } 
+
+
+
+.but:active{
+    color: red;
+    background-color: green;
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+}
